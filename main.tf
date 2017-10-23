@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "eu-central-1"
+  region = "eu-central-2"
 }
 
 data "aws_availability_zones" "all" {}
